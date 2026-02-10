@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-A professional-grade system monitoring tool designed specifically for **DataOps internship preparation**. This project demonstrates essential Python scripting, Linux operations, and automation skills in a clean, production-ready implementation.
 
 ## 🎯 **Project Overview**
 
