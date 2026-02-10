@@ -511,5 +511,3 @@ For questions, suggestions, or issues:
 **Dependencies:** 1 (psutil)  
 **Test Coverage:** Manual testing only  
 **Documentation:** Comprehensive README  
-
-# System-Monitor-Pro-
