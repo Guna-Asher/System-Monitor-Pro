@@ -105,7 +105,7 @@ chmod +x setup.sh && \
 #### **Method 2: Step-by-Step Manual Setup**
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/system-monitor-pro.git
+git clone https://github.com/Guna-Asher/System-Monitor-Pro.git
 cd system-monitor-pro
 
 # 2. Make setup script executable
@@ -461,7 +461,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - DataOps Aspirant
 
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [@YourUsername](https://github.com/Guna-Asher)
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
@@ -483,10 +483,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Support**
 
 For questions, suggestions, or issues:
-1. Check the [Issues](https://github.com/YourUsername/system-monitor-pro/issues) page
+1. Check the [Issues](https://github.com/Guna-Asher/System-Monitor-Pro/issues) page
 2. Create a new issue with detailed description
-3. Email: your.email@example.com
-
 ---
 
 <div align="center">
